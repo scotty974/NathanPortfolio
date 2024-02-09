@@ -1,6 +1,6 @@
-<ul class="flex w-sizeHeader justify-between items-center text-colorHeadertxt backdrop-blur-xl p-2 rounded-full">
+<ul class="flex w-sizeHeader justify-between items-center font-bold text-colorHeadertxt backdrop-blur-xl p-2 rounded-full fixed top-0">
   <li
-    class="flex items-center justify-center bg-colorHeaderBtn p-2 rounded-full bg-opacity-25 w-24"
+    class="flex items-center justify-center  bg-colorHeaderBtn p-2 rounded-full bg-opacity-25 w-24"
   >
     Work <span
       class="flex items-center justify-center ml-2 pb-1 w-6 h-6 text-sm rounded border-2 border-colorHeaderBorder border-opacity-50"

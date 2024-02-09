@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-    background-color: #0F5298;
+body {
+  background: linear-gradient(334deg, #0f5298, #66d3fa);
+  animation: animBack 3s ease infinite;
+}
+
+@keyframes animBack {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
