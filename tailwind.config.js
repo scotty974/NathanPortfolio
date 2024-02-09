@@ -10,7 +10,11 @@ export default {
         colorQuestion : "#66D3FA",
       },
       width : {
-        sizeHeader : 480
+        sizeHeader : 480,
+        widthText : 616
+      },
+      height : {
+        heightImg : 474
       },
       fontFamily : {
         title : "Lilita One"
