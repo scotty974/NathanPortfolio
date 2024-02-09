@@ -2,7 +2,16 @@
 export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    extend: {}
+    extend: {
+      colors : {
+        colorHeaderBtn : "#D5F3FE",
+        colorHeadertxt : "#D5F3FE",
+        colorHeaderBorder : "#66D3FA"
+      },
+      width : {
+        sizeHeader : 480
+      }
+    }
   },
   plugins: []
 };
