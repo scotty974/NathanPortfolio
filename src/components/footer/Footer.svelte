@@ -1,4 +1,4 @@
-<footer class="h-52 mt-28 px-2 md:px-0">
+<footer class="h-52 mt-28 px-2 md:px-0 font-text">
     <div class="flex gap-8">
         <ul>
             <li class="text-colorQuestion font-title text-2xl">

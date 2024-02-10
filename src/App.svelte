@@ -12,20 +12,20 @@
       Nathan Bedouet.
     </h1>
   </section>
-  <section class="flex md:flex-row flex-col mt-28  items-center px-2 md:px-0">
+  <section class="flex md:flex-row flex-col mt-28  items-start px-2 md:px-0">
     <Profil></Profil>
   </section>
   <section class="mt-28 px-2 md:px-0">
     <div class="grid grid-cols-6 gap-4">
       <div
-        class="md:col-start-5 md:col-span-2 col-span-7 flex  bg-colorQuestion h-20 rounded-full items-center justify-between px-5 font-bold text-colorExp text-lg"
+        class="md:col-start-5 md:col-span-2 col-span-7 flex  bg-colorQuestion h-20 rounded-full items-center justify-between px-5 font-bold text-colorExp text-lg font-text"
       >
         <div>
-          <p>Experience</p>
-          <p class="font-semibold">Rôle</p>
+          <p class="text-xl">Experience</p>
+          <p class="font-semibold text-lg">Rôle</p>
         </div>
 
-        <p>10-23</p>
+        <p class="text-xl">10-23</p>
       </div>
       <div
         class="md:col-start-3 md:col-span-2 col-span-7 flex bg-colorQuestion h-20 rounded-full items-center justify-between px-5 font-bold text-colorExp text-lg"
@@ -54,7 +54,7 @@
       A Propos de moi.
     </h2>
     <p
-      class="text-xl mt-6 text-colorHeadertxt leading-loose md:w-widthTextAbout"
+      class="text-xl mt-6 text-colorHeadertxt leading-loose md:w-widthTextAbout font-text"
     >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus debitis
       quod ipsa, dolorum excepturi possimus neque? Vero error maiores quibusdam,

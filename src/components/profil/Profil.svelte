@@ -6,10 +6,10 @@
   />
 </div>
 <div class="md:w-1/2 w-full flex flex-col gap-2">
-  <h2 class="md:text-5xl text-3xl mt-8 font-title text-colorQuestion md:w-widthText">
+  <h2 class="md:text-6xl text-3xl mt-8 font-title text-colorQuestion md:w-widthText">
     Je suis étudiant en design et en alternance chez Vivendi
   </h2>
-  <p class="text-colorHeadertxt leading-loose md:w-widthText">
+  <p class="text-colorHeadertxt  md:w-widthText font-semibold text-2xl mt-8 font-text">
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, officiis
     fugiat, iure enim incidunt reiciendis rem corporis dignissimos ipsam, vero
     alias! Sunt quidem beatae saepe est odio, pariatur fugiat voluptas.

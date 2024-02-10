@@ -23,7 +23,8 @@ export default {
         heightCard : 664
       },
       fontFamily : {
-        title : "Lilita One"
+        title : "Lilita One",
+        text : "Inter"
       }
     }
   },
