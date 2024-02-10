@@ -8,6 +8,7 @@ export default {
         colorHeadertxt : "#D5F3FE",
         colorHeaderBorder : "#66D3FA",
         colorQuestion : "#66D3FA",
+        colorExp : "#233831"
       },
       width : {
         sizeHeader : 480,
