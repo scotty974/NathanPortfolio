@@ -5,6 +5,7 @@ export default {
     extend: {
       colors : {
         colorHeaderBtn : "#D5F3FE",
+        colorBgCard : "#D5F3FE",
         colorHeadertxt : "#D5F3FE",
         colorHeaderBorder : "#66D3FA",
         colorQuestion : "#66D3FA",
@@ -12,10 +13,14 @@ export default {
       },
       width : {
         sizeHeader : 480,
-        widthText : 616
+        widthText : 616,
+        widthTextAbout : 1024,
+        widthCard : 383,
+        widthContentCard : 800
       },
       height : {
-        heightImg : 474
+        heightImg : 474,
+        heightCard : 664
       },
       fontFamily : {
         title : "Lilita One"
