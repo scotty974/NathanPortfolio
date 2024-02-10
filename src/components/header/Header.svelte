@@ -1,4 +1,4 @@
-<ul class="flex w-sizeHeader justify-between items-center font-bold text-colorHeadertxt backdrop-blur-xl p-2 rounded-full fixed top-0">
+<ul class="flex md:w-sizeHeader justify-between items-center font-bold text-colorHeadertxt backdrop-blur-xl p-2 rounded-full fixed top-0 sm:text-xs md:text-base">
   <li
     class="flex items-center justify-center  bg-colorHeaderBtn p-2 rounded-full bg-opacity-25 w-24"
   >
